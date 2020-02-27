@@ -74,6 +74,7 @@ abstract class AbstractPaymentRequest extends AbstractRequest
         'UNEUROCOM'             => 'UNEUROCOM',
         'VISA'                  => 'CreditCard',
         'Wallie'                => 'Wallie',
+        'mrticket'              => 'Intersolve'
     );
 
     /** Note this is public to allow easy modification, if need be. */
