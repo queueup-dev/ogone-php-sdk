@@ -1,5 +1,5 @@
 {
-    "name": "marlon-be/marlon-ogone",
+    "name": "queueup-dev/ogone-php-sdk",
     "autoload": {
         "psr-4": {
             "Ogone\\": "lib/Ogone/",
