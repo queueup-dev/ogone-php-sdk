@@ -49,7 +49,7 @@ abstract class AbstractPaymentRequest extends AbstractRequest
         'EPS'                   => 'EPS',
         'Fortis Pay Button'     => 'Fortis Pay Button',
         'giropay'               => 'giropay',
-        'iDEAL'                 => 'iDEAL2',
+        'iDeal2'                 => 'ideal',
         'ING HomePay'           => 'ING HomePay',
         'InterSolve'            => 'InterSolve',
         'JCB'                   => 'CreditCard',
