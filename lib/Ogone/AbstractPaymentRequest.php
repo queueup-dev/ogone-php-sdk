@@ -49,7 +49,7 @@ abstract class AbstractPaymentRequest extends AbstractRequest
         'EPS'                   => 'EPS',
         'Fortis Pay Button'     => 'Fortis Pay Button',
         'giropay'               => 'giropay',
-        'iDEAL'                 => 'iDEAL',
+        'iDEAL'                 => 'iDEAL2',
         'ING HomePay'           => 'ING HomePay',
         'InterSolve'            => 'InterSolve',
         'JCB'                   => 'CreditCard',
@@ -74,7 +74,7 @@ abstract class AbstractPaymentRequest extends AbstractRequest
         'UNEUROCOM'             => 'UNEUROCOM',
         'VISA'                  => 'CreditCard',
         'Wallie'                => 'Wallie',
-        'mrticket'              => 'Intersolve'
+        'Dagje Uit'             => 'intersolve'
     );
 
     /** Note this is public to allow easy modification, if need be. */
